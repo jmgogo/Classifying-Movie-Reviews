@@ -1,4 +1,4 @@
-# Classifying Movie Reviews | WORK IN PROGRESS
+# Classifying Movie Reviews
 <br />
 <p align="center">
   <a href="https://github.com/jgome284/Classifying-Movie-Reviews">
